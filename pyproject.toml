@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "fastapi-cache2"
+name = "fastapi-nitro"
 version = "0.2.1"
 description = "Cache for FastAPI"
-authors = ["long2ice <long2ice@gmail.com>"]
+authors = ["lyon916"]
 license = "Apache-2.0"
 readme = "README.md"
-homepage = "https://github.com/long2ice/fastapi-cache"
-repository = "https://github.com/long2ice/fastapi-cache.git"
-documentation = "https://github.com/long2ice/fastapi-cache"
+homepage = "https://github.com/lyon916/fastapi-nitro"
+repository = "https://github.com/lyon916/fastapi-nitro.git"
+documentation = "https://github.com/lyon916/fastapi-nitro"
 keywords = ["fastapi", "cache", "caching"]
 packages = [
     { include = "fastapi_cache" }
@@ -85,8 +85,8 @@ package = "fastapi_cache"
 start_string = "<!-- towncrier release notes start -->\n"
 underlines = ["", "", ""]
 template = "changelog.d/changelog_template.jinja"
-title_format = "## [{version}](https://github.com/long2ice/fastapi-cache/tree/{version}) - {project_date}"
-issue_format = "[#{issue}](https://github.com/long2ice/fastapi-cache/issues/{issue})"
+title_format = "## [{version}](https://github.com/lyon916/fastapi-nitro/tree/{version}) - {project_date}"
+issue_format = "[#{issue}](https://github.com/lyon916/fastapi-nitro/issues/{issue})"
 
 [tool.pyright]
 strict = ["fastapi_cache", "tests"]
