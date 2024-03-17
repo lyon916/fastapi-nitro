@@ -25,7 +25,7 @@ backends supporting Redis, Memcached, and Amazon DynamoDB.
 ## Install
 
 ```shell
-> pip install fastapi-cache2
+> pip install fastapi-nitro
 ```
 
 or
