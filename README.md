@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/github/license/lyon916/fastapi-nitro)](https://github.com/lyon916/fastapi-nitro/blob/main/LICENSE)
 [![CI/CD](https://github.com/lyon916/fastapi-nitro/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/lyon916/fastapi-nitro/actions/workflows/ci-cd.yml)
 
-## Introduction
+## Introduction 
 
 `fastapi-nitro` is a tool to cache FastAPI endpoint and function results, with
 backends supporting Redis, Memcached, and Amazon DynamoDB.
